@@ -1,0 +1,13 @@
+{
+  "name": "com.weackss.scenario.frameworks.ui",
+  "displayName": "Scenario.Frameworks.UI",
+  "version": "1.3.2",
+  "description": "",
+  "license": "Dolbaeb Intenational",
+  "category": "Framework",
+  "author": {
+    "name": "Weackss",
+    "email": "ubta.etc@gmail.com"
+  },
+  "dependencies": {}
+}
